@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-santiago",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Santiago Gomez <sgomez@ebfactory.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santiago614/random-str-msg-santiago.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Santiago614/random-str-msg-santiago/issues"
+  },
+  "homepage": "https://github.com/Santiago614/random-str-msg-santiago#readme",
+  "bin": {
+    "random-str-msg-santiago": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
